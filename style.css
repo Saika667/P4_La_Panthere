@@ -127,7 +127,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .a-btn:hover,
@@ -144,17 +144,17 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(255, 255, 255);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
-    background: rgba(255, 255, 255, 1);
+    background: rgb(255, 255, 255);
 }
 
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
-    color: rgba(255, 255, 255, 1);
-    border-color: rgba(255, 255, 255, 1);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
 }
 
 .d-bloc .panel {
@@ -178,7 +178,7 @@ a:hover {
 }
 
 .d-bloc .panel .a-btn:hover {
-    color: rgba(0, 0, 0, 1);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .panel .btn-wire,
@@ -243,7 +243,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    color: rgb(0, 0, 0);
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -645,7 +645,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -707,7 +707,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: black!important;
 }
 
 .med-width-whitespace {
@@ -717,11 +717,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: black!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: black!important;
 }
 
 .icons {
@@ -772,11 +772,12 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    background: rgba(0,0,0,.5);
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
