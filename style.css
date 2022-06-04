@@ -189,7 +189,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .panel button:hover,
@@ -732,7 +732,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
-
+.black {
+    color: black!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
