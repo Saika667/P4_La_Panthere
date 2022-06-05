@@ -821,7 +821,12 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
-
+.imgLogo {
+    height: 40px;
+}
+.image-resize-mode {
+    width: 100px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
